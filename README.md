@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Tech Project Analyst in Smart Investment Fund ✍️<br>I'm looking to learn and grow in the Tech Industry!<br>I'm learning as much as I can, aiming to be proficient in Data Science and Web Development 🖥<br>I have a Computer Vision paper published! I'd love to talk anyone about it 😄<br>I'm looking to learn also about Game Development 😉
+I'm currently working as Quality and Information Techonologies Analyst in Distribuidora Castillo and as Tech Project Analyst in Smart Investment Fund. ✍️<br>I'm looking to learn and grow in the Tech Industry!<br>I'm learning as much as I can, aiming to be proficient in Data Science and Web Development 🖥<br>I have a Computer Vision paper published! I'd love to talk anyone about it 😄<br>I'm looking to learn also about Game Development 😉
 
 
 ## 🌐 Socials:
