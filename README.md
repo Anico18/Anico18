@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Quality and Information Techonologies Analyst in Distribuidora Castillo and as Tech Project Analyst in Smart Investment Fund. <br>I'm looking to learn and grow in the Tech Industry!<br>I'm learning as much as I can, aiming to be proficient in Data Science and Web Development 🖥<br>I have a Computer Vision paper published! I'd love to talk anyone about it 😄<br>
+I'm currently working as the Coordinator of the Data Analytics department at Alferza Desarrolladora Inmobiliaria. <br>I'm looking to learn and grow in the Tech Industry!<br>I'm learning as much as I can, aiming to be proficient in Data Science and Web Development 🖥<br>I have a Computer Vision paper published! I'd love to talk anyone about it 😄<br>
 Don't hesitate in contacting me! My email is: <b>alejandro.tm1896@gmail.com</b>
 
 
