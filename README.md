@@ -31,9 +31,6 @@ Don't hesitate in contacting me! My email is: <b>alejandro.tm1896@gmail.com</b>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anico18&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Anico18&icon=2&color=2)](https://visitcount.itsvg.in)
 
