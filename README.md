@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as the Coordinator of the Data Analytics department at Alferza Desarrolladora Inmobiliaria. <br>I'm looking to learn and grow in the Tech Industry!<br>I'm learning as much as I can, aiming to be proficient in Data Science and Web Development 🖥<br>I have a Computer Vision paper published! I'd love to talk anyone about it 😄<br>
+I'm currently working as Integrations Analyst Jr. at Buk. <br>I'm looking to learn and grow in the Tech Industry!<br>I'm learning as much as I can, aiming to be proficient in coding following good practices, aiming to make good and performant software<br>I have a Computer Vision paper published! I'd love to talk anyone about it 😄<br>
 Don't hesitate in contacting me! My email is: <b>alejandro.tm1896@gmail.com</b>
 
 
@@ -31,7 +31,5 @@ Don't hesitate in contacting me! My email is: <b>alejandro.tm1896@gmail.com</b>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anico18&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Anico18&icon=2&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
